@@ -1,0 +1,6 @@
+# Ignore temporary build files
+*.o
+*.out
+
+# Ignore executables
+atm-system
